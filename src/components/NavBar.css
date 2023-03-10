@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Tilt+Prism&display=swap');
+.navbar
+{
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Tilt Prism', cursive;
+    color: whitesmoke;
+    font-size: 2rem;
+    letter-spacing: 0.2rem;
+    font-weight: bold;
+    border-color: aliceblue;
+
+}

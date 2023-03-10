@@ -35,7 +35,7 @@ export const TimeLine = () => {
             <img
               className="timeline-img"
               src={event.image}
-              alt="cyber security image"
+              alt="cyber security"
             />
             <div>
               <h3 className="timeline-title">{event.title}</h3>
